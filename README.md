@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [@tommylife88](https://github.com/tommylife88)
+# 👋 Hi, I’m [tommy](https://github.com/tommylife88)
 Embedded System engineer.
 
 * 👀 I’m interested in web development ...
