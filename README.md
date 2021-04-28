@@ -30,4 +30,4 @@ Skill set
 ![LPIC-1-IconSize](https://user-images.githubusercontent.com/29136901/116383075-7c876f00-a851-11eb-98ce-1c4058e2a8ab.png) ![LPIC-2-IconSize](https://user-images.githubusercontent.com/29136901/116383126-8a3cf480-a851-11eb-91eb-2dd57390c293.png) ![LPIC-3-304-IconSize](https://user-images.githubusercontent.com/29136901/116383157-9032d580-a851-11eb-84b5-f27c76a3b94c.png)
 
 ## Social
-![Twitter Follow](https://img.shields.io/twitter/follow/TommyLife88?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TommyLife88?style=social)](https://twitter.com/TommyLife88)
